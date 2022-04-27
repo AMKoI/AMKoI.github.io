@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothes>
+	<clothes group="Пуховики">
+		<name>Leather 700 Nuptse Jacket</name>
+		<year>2017</year>
+		<developer>Supreme x The North Face</developer>
+	</clothes>
+	<clothes group="Пуховики">
+		<name>Puffer Jacket</name>
+		<year>2017</year>
+		<developer>Prada</developer>
+	</clothes>
+	<clothes group="Пуховики">
+		<name>Supreme Down Puffer Jacket</name>
+		<year>2020</year>
+		<developer>Supreme x Yohji Yamamoto</developer>
+	</clothes>
+	<clothes group="Вітровки">
+		<name> Country Black Jacket</name>
+		<year>2017</year>
+		<developer>The North Face x Supreme</developer>
+	</clothes>
+	<clothes group="Вітровки">
+		<name>Face Spring Jacket</name>
+		<year>2018</year>
+		<developer>The North Face x Supreme</developer>
+	</clothes>
+	<clothes group="Вітровки">
+		<name>Face Fall Jacket</name>
+		<year>2018</year>
+		<developer>The North Face x Supreme</developer>
+	</clothes>
+	<clothes group="Худі">
+		<name>Off-White Logo Printed Hoodie</name>
+		<year>2016</year>
+		<developer>Off-White</developer>
+	</clothes>
+	<clothes group="Худі">
+		<name>Thrasher Hoodie</name>
+		<year>2018</year>
+		<developer>Thrasher</developer>
+	</clothes>	
+	<clothes group="Худі">
+		<name>Bape Camo Shark Hoodie</name>
+		<year>2015</year>
+		<developer>A Baiting Ape</developer>
+	</clothes>
+</clothes>
